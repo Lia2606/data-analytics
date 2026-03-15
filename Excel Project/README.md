@@ -9,7 +9,7 @@
    | Delivery | Shipping delays cause negative experiences | 
    | Platform | Payment friction or UX issues | 
    | Seller   | Unreliable sellers damage platform trust | 
-4. Data Cleaning (in Data Cleaning Log file)
+4. Data Cleaning (uploaded as a file)
 5. Testing Each Branch
    - Product → Product quality was not the differentiator.
    - Delivery → Confirmed by the correlation with average review score.
@@ -25,6 +25,7 @@
      - KPI: Repeat Rate 3.12% → 10%
    - #3: Manage Seller Quality - Automated monthly seller scorecard. Prioritize sellers with Review < 3.5 AND GMV top 20%. Apply visibility restrictions after 3 consecutive months below threshold.
      - KPI: Bottom 10% seller avg review → 3.5★
+9. Insight Communication: Both ad-hoc analysis and full analysis are uploaded.
 
 Tools, Skills, Analytical Frameworks:
    - Excel: Power query, Power pivot, Pivot tables, Data modeling, Formulas, Dashboard
@@ -40,3 +41,5 @@ Limitations:
 - Limited time range. Effective period: 2017 Q1 – 2018 Q3 (21 months).
 - Brazilian market context. Findings may not directly transfer to other markets.
 - Cohort retention analysis was not performed due to the extremely low repeat rate (3.12%); cohort matrices would be near-empty and add limited analytical value."
+
+Data Source: Olist Brazilian E-commerce Dataset — 9 tables, 100K+ orders, Sept 2016 – Oct 2018.
