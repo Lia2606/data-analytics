@@ -9,15 +9,16 @@
    | Delivery | Shipping delays cause negative experiences | 
    | Platform | Payment friction or UX issues | 
    | Seller   | Unreliable sellers damage platform trust | 
-4. Testing Each Branch
+4. Data Cleaning (in Data Cleaning Log file)
+5. Testing Each Branch
    - Product → Product quality was not the differentiator.
    - Delivery → Confirmed by the correlation with average review score.
    - Platform → Not a major factor.
    - Seller → Secondary risk.
-5. Quantifying the Impact: Improving repeat rate from 3% to 10% could generate ~$2.1M in additional GMV.
-6. The Causal Chain:
+6. Quantifying the Impact: Improving repeat rate from 3% to 10% could generate ~$2.1M in additional GMV.
+7. The Causal Chain:
    - Carrier Bottleneck → Delivery Delay → Review Score Collapse → Customer Does Not Return → Growth Depends Entirely on New Acquisition
-7. Strategic Recommendations:
+8. Strategic Recommendations:
    - #1: Fix Delivery - Enforce carrier SLA with P90 target of 15 days (currently 22). Replicate SP's logistics model (8.3 days avg) in underperforming states (RJ: 14.7 days, BA: 18.8 days). Establish monthly OTDR monitoring dashboard.
      - KPI: OTDR 93.4% → 95%
    - #2: Convert First-Time Buyers - Category-based product recommendation emails at 2 weeks post-purchase. 10% discount coupon at 3 weeks. Reminder at 4 weeks. A/B test timing for optimization.
