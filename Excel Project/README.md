@@ -1,7 +1,6 @@
 # Olist E-commerce Analysis
 1. Key Questions & Findings
-   - [Olist_Analysis.xlsx (Google Drive)](https://docs.google.com/spreadsheets/d/1a9PUJA1EbsTIT9xYDzNMvuHfIOpIC2jc/uc?export=download&ouid=112525682529870619272&rtpof=true&sd=true)
-3. Dashboard Previews
+   - [Olist_Analysis.xlsx](https://github.com/Lia2606/Data-Analysis/releases/tag/v1.0)
 
 Excel Ad-hoc analysis Dashboard
 
