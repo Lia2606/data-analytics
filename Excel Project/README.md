@@ -3,17 +3,18 @@
 2. Dashboard Previews
 Excel Ad-hoc analysis Dashboard
 
-![Excel Dashboard](./Dashboards/Ad-hoc analysis_Dashboard.png)
+![Excel Dashboard](./Dashboards/Ad-hoc%20analysis_Dashboard.png)
 
 Power BI Dashboard
 
-![Overview](./Dashboards/Power BI_Overview.png)
 
-![Retention](./Dashboards/Power BI_Retention problem.png)
+![Overview](./Dashboards/Power%20BI_Overview.png)
 
-![Delivery](./Dashboards/Power BI_Delivery.png)
+![Retention](./Dashboards/Power%20BI_Retention%20problem.png)
 
-![Strategic](./Dashboards/Power BI_Strategic Implications.png)
+![Delivery](./Dashboards/Power%20BI_Delivery.png)
+
+![Strategic](./Dashboards/Power%20BI_Strategic%20Implications.png)
 
 4. Project Overview:
    1) EDA: Profiled all 9 tables - row counts, blanks, 
