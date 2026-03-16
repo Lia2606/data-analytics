@@ -24,7 +24,7 @@
    - Key discovery: 99,441 orders from 96,096 unique customers
    2) #### Defining Question: "Why do 97% of customers never return, and what can be done to improve customer lifetime value?"
       
-   3) Data Cleaning ([See full profiling →])
+   3) Data Cleaning [Data Cleaning Log & Key Insights (PDF)](./Olist_Data%20Cleaning%20Log%20&%20Key%20Insights.pdf)
       
    4) Building Hypothesis
    
@@ -110,7 +110,7 @@
 | GMV per Repeat Customer | $315.39 | 
 | First-time vs Repeat GMV Split | 94% vs 6% | 
 
-6. Detailed Analysis ([See full profiling →])
+6. Detailed Analysis [Data Cleaning Log & Key Insights (PDF)](./Olist_Data%20Cleaning%20Log%20&%20Key%20Insights.pdf)
 
 Limitations:
 - GMV ≠ Olist revenue. Olist's take rate (commission %) is unknown.
