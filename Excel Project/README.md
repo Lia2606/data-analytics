@@ -2,7 +2,7 @@
 1. Key Questions & Findings
 2. Dashboard Previews
 3. Project Overview:
-1) EDA: Profiled all 9 tables - row counts, blanks, 
+   1) EDA: Profiled all 9 tables - row counts, blanks, 
    unique values, descriptive statistics. 
    ([See full profiling →])
    #### Key discovery: 99,441 orders from 96,096 unique customers
