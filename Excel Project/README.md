@@ -38,7 +38,19 @@
    - #3: Manage Seller Quality - Automated monthly seller scorecard. Prioritize sellers with Review < 3.5 AND GMV top 20%. Apply visibility restrictions after 3 consecutive months below threshold.
      - KPI: Bottom 10% seller avg review → 3.5★
 5. RFM Segmentation Summary
-6. Key Metrics
+
+| Segment | Customers | Revenue Share |
+|---------|-----------|---------------|
+| New/Potential | 38,176 | 40.5% | 
+| Lost/Inactive | 56,722 | 56.9% | 
+| At Risk | 988 | 1.8% | 
+| Loyal | 123 | 0.4% | 
+| Can't Lose | 71 | 0.2% | 
+| Champions | 14 | 0.1% | 
+
+99.3% of customers are either New/Potential or Lost/Inactive. The New/Potential segment alone holds 40.5% of GMV; the single biggest conversion opportunity.
+
+7. Key Metrics
 
    Revenue & Sales
 
