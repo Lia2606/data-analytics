@@ -32,6 +32,57 @@
      - KPI: Bottom 10% seller avg review → 3.5★
 4. RFM Segmentation Summary
 5. Key Metrics
+### Revenue & Sales
+
+| Metric | Value | Source |
+|--------|-------|--------|
+| GMV | $15,876,443 | Power Pivot measure |
+| AOV | $159.66 | Power Pivot measure |
+| Basket Size (UPT) | 1.13 | Power Pivot measure |
+
+### Customer
+
+| Metric | Value | Source |
+|--------|-------|--------|
+| CLV (proxy) | $165.21 | Quick Calcs |
+| Repeat Purchase Rate | 3.12% | RFM / Customer Economics |
+| Churn Rate | 96.88% (= 1 - Repeat Rate) | Derived |
+
+### Supply Chain / Operations
+
+| Metric | Value | Source |
+|--------|-------|--------|
+| On-Time Delivery Rate (OTDR) | 93.4% | Quick Calcs |
+| Order Cycle Time | 12.0 days avg | Delivery Trend |
+| Fulfillment Time (Seller) | 2.4 days avg | Delivery Trend |
+| Shipping Time (Carrier) | 8.7 days avg | Delivery Trend |
+| P90 Delivery | 22 days | Quick Calcs |
+| P95 Delivery | 29 days | Quick Calcs |
+| SLA Breach Rate | 6.6% | Quick Calcs |
+
+### Product Analytics (AARRR)
+
+| Stage | Analysis | Result |
+|-------|----------|--------|
+| Acquisition | Total Customers | 96,096 |
+| Activation | Total Orders | 99,441 |
+| Retention | Repeat Rate | 3.12% ✗ |
+| Revenue | CLV vs AOV | $165 ≈ $160 ✗ |
+| Referral | Review Score Distribution | 56% 5★, 13% 1★ ⚠ |
+
+### Other
+
+| Metric | Value | Source |
+|--------|-------|--------|
+| RFM Segmentation | 6 segments | RFM Sheet |
+| Correlation (Delivery vs Review) | r = −0.30 | Quick Calcs |
+| Revenue Concentration (Seller) | Top 18% = 80% GMV | Seller Analysis |
+| Revenue Concentration (Category) | Top 18 categories = 81% GMV | Revenue Analysis |
+| Customer Satisfaction (Review) | 4.02 avg | Power Pivot measure |
+| Time-to-Second-Purchase (median) | 34 days | RFM |
+| Time-to-Second-Purchase (mean) | 87.3 days | RFM |
+| GMV per Repeat Customer | $315.39 | RFM |
+| First-time vs Repeat GMV Split | 94% vs 6% | RFM |
 6. Detailed Analysis
 
 Limitations:
