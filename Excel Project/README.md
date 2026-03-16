@@ -10,12 +10,12 @@
    3) Data Cleaning (uploaded as a file)
    4) Building Hypothesis
 
-| Branch | Hypothesis |
-|--------|-----------|
-| Product | Poor product quality drives dissatisfaction |
-| Delivery | Shipping delays cause negative experiences |
-| Platform | Payment friction or UX issues |
-| Seller | Unreliable sellers damage platform trust |
+   | Branch | Hypothesis |
+   |--------|-----------|
+   | Product | Poor product quality drives dissatisfaction |
+   | Delivery | Shipping delays cause negative experiences |
+   | Platform | Payment friction or UX issues |
+   | Seller | Unreliable sellers damage platform trust |
    5) Testing Each Branch
    - Product → Product quality was not the differentiator.
    - Delivery → Confirmed by the correlation with average review score.
