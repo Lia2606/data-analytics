@@ -1,7 +1,15 @@
 # Olist E-commerce Analysis
 1. Key Questions & Findings
 2. Dashboard Previews
-3. Project Overview:
+Excel Ad-hoc analysis Dashboard
+![Excel Dashboard](./Dashboards/Ad-hoc analysis_Dashboard.png)
+
+Power BI Dashboard
+![Overview](./Dashboards/Power BI_Overview.png)
+![Retention](./Dashboards/Power BI_Retention problem.png)
+![Delivery](./Dashboards/Power BI_Delivery.png)
+![Strategic](./Dashboards/Power BI_Strategic Implications.png)
+4. Project Overview:
    1) EDA: Profiled all 9 tables - row counts, blanks, 
    unique values, descriptive statistics. 
    ([See full profiling →])
