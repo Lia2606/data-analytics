@@ -86,7 +86,7 @@
 | GMV per Repeat Customer | $315.39 | 
 | First-time vs Repeat GMV Split | 94% vs 6% | 
 
-   7) RFM Segmentation Summary
+      7) RFM Segmentation Summary
 
 | Segment | Customers | Revenue Share |
 |---------|-----------|---------------|
