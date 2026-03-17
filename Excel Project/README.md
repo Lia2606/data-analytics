@@ -25,7 +25,7 @@
    - Key discovery: 99,441 orders from 96,096 unique customers
 2) #### Defining Question: "Why do 97% of customers never return, and what can be done to improve customer lifetime value?"
       
-3) Data Cleaning - [Data Cleaning Log & Key Insights (PDF)](./Olist_Data%20Cleaning%20Log%20&%20Key%20Insights.pdf)
+3) Data Cleaning: includes Power Query transformation log, hypothesis testing, and core findings. [Data Cleaning Log & Key Insights (PDF)](./Olist_Data%20Cleaning%20Log%20&%20Key%20Insights.pdf)
       
 4) Building Hypothesis
    
