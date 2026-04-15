@@ -282,5 +282,5 @@ Acknowledge structural ceiling — focus only on validated triggers.
 
 - **Excel & Power BI:** Power Query, Power Pivot, DAX, Star Schema, Dashboard Design
 - **Statistical Methods:** ANOVA, Chi-square, Pareto Analysis
-- **Frameworks:** RFM Segmentation, Prioritization Matrix, 4-Quadrant Strategic Matrix
+- **Frameworks:** Prioritization Matrix, 4-Quadrant Strategic Matrix
 - **Data Source:** Olist Brazilian E-commerce Dataset — 9 tables, 100K+ orders, Sept 2016 - Oct 2018
