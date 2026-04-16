@@ -131,9 +131,9 @@ Average late_rate analysis resolved this:
 - **Critical sellers** (avg late_rate 9.50%) operate near the platform average (7.08%). Their high absolute late count reflects order volume, not poor performance. These sellers need infrastructure support, not penalties — their exit would risk 58% of platform GMV.
 - **Remove Candidates** (avg late_rate 29.49%) are the actual quality problem. One in four orders arrives late, yet they contribute only 2.8% of GMV. Safe to restrict aggressively with minimal platform cost.
 
-This distinction matters: applying punitive SLAs to Critical sellers would risk losing the platform's revenue backbone. The true quality intervention target is the Remove Candidate segment.
+This distinction matters: applying strict SLAs to Critical sellers would risk losing the platform's revenue backbone. The true quality intervention target is the Remove Candidate segment.
 
-### Geographic Distribution (Counter-Intuitive Finding)
+### Geographic Distribution 
 
 **Initial assumption:** SP (Sao Paulo), with the densest seller population and best infrastructure, would represent the optimal logistics model.
 
@@ -148,7 +148,7 @@ This distinction matters: applying punitive SLAs to Critical sellers would risk 
 
 Top Performers cluster in southern states — PR (Parana) at 17.5% vs 11.3% baseline, and RS (Rio Grande do Sul) at 6.6% vs 4.2% baseline. Mid-sized southern logistics hubs outperform the oversaturated SP market. Density may create congestion, not efficiency.
 
-**Strategic reversal:** Earlier analysis recommended "replicate SP's logistics model." This finding flips that recommendation — PR/RS should be the operational benchmark for nationwide scaling.
+**Strategic reversal:** Earlier analysis recommended "replicate SP's logistics model." This finding flips that recommendation; PR/RS should be the operational benchmark for nationwide scaling.
 
 ---
 
@@ -192,7 +192,7 @@ Three pieces of evidence converge on the same structural conclusion:
 - **Evidence 2:** Voucher-using customers show significantly higher repeat rates (chi-square validated, significant association).
 - **Evidence 3:** Multi-item buyers show significantly higher repeat rates (chi-square validated, significant association).
 
-**Interpretation:** Repurchase only occurs when triggered by external incentives (vouchers) or initial multi-item purchase behavior. Natural return motivation is absent at the platform level. Review satisfaction and on-time delivery — strong drivers of platform stickiness elsewhere — fail to produce retention here. This is not an operational problem but a platform-identity problem.
+**Interpretation:** Repurchase only occurs when triggered by external incentives (vouchers) or initial multi-item purchase behavior. Natural return motivation is absent at the platform level. Review satisfaction and on-time delivery fail to produce retention here. This is not an operational problem but a platform-identity problem.
 
 ---
 
@@ -202,17 +202,17 @@ Three pieces of evidence converge on the same structural conclusion:
 
 Four segments require four distinct policies.
 
-**Critical** (278 sellers / 58.3% GMV / 68.3% Late) — Volume-driven absolute delays with near-average late_rate (9.50%). **Action:** infrastructure support — priority carrier pickup slots, consolidated shipping options, free automated labeling tools. Punitive SLAs would risk losing 58% of platform GMV.
+**Critical** (278 sellers / 58.3% GMV / 68.3% Late) — Volume-driven absolute delays with near-average late_rate (9.50%). **Action:** infrastructure support — priority carrier pickup slots, consolidated shipping options, free automated labeling tools. Strict SLAs would risk losing 58% of platform GMV.
 
 **Top Performer** (257 sellers / 21.6% GMV / 4.8% Late) — Best-practice operators with lowest late_rate (4.83%) and highest reviews (4.10). Strong southern (PR/RS) representation. **Action:** benchmark extraction — operational interviews, "Verified Premium Seller" badges with search visibility advantage, mentor seller assignments for Critical sellers.
 
-**Remove Candidate** (116 sellers / 2.8% GMV / 11.7% Late) — Triple risk: late_rate 29.49% (3.6x platform average), reviews 3.74 (lowest), minimal GMV. **Action:** phased visibility restriction with monitoring of late_rate trends. Escalate to order blocking if performance fails to improve.
+**Remove Candidate** (116 sellers / 2.8% GMV / 11.7% Late) — Triple risk: late rate 29.49% (3.6x platform average), reviews 3.74 (lowest), minimal GMV. **Action:** phased visibility restriction with monitoring of late rate trends. Escalate to order blocking if performance fails to improve.
 
 **Monitor** (2,319 sellers / 17.4% GMV) — Standard performance within normal ranges. **Action:** quarterly automated scorecards. Reclassify to Critical or Remove Candidate if thresholds are breached.
 
 ### Recommendation #2: Geographic Strategy Pivot
 
-Reverse the prior recommendation to "replicate SP model." Segment analysis revealed SP concentration correlates with delays — 73% of Remove Candidates and 70% of Critical sellers are in SP.
+Reverse the prior recommendation to "replicate SP model." Segment analysis revealed SP concentration correlates with delays; 73% of Remove Candidates and 70% of Critical sellers are in SP.
 
 **Actions:** conduct operational analysis of PR/RS Top Performer cohort; pause new SP seller onboarding and expand southern seller acquisition; offer logistics-relocation incentives for selected SP Critical sellers.
 
@@ -239,7 +239,7 @@ Acknowledge structural ceiling — focus only on validated triggers.
 
 **C. 34-Day Retargeting:** Automated outreach at the median repurchase gap window. Curated based on first-purchase category.
 
-**D. Realistic Target:** Reframe success metrics to reflect the platform's structural ceiling. Operational improvements alone cannot match marketplace benchmarks (20-30%). The repeat rate goal should reflect what is achievable within a transactional pipeline model.
+**D. Realistic Target:** Reframe success metrics to reflect the platform's structural ceiling. Operational improvements alone cannot match marketplace benchmarks. The repeat rate goal should reflect what is achievable within a transactional pipeline model.
 
 ### Priority Matrix
 
