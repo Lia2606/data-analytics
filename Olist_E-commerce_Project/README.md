@@ -11,7 +11,7 @@ Full Analysis File: [Olist_Analysis.xlsx](https://github.com/yaeryung-lee/Data-A
 ## Dashboard Previews
 
 ### Excel Ad-hoc Analysis Dashboard
-![Excel Ad-hoc Analysis](Dashboards/Ad-hoc_Analysis.png)
+![Excel Ad-hoc Analysis](Dashboards/Ad-hoc_analysis.png)
 
 ### Power BI Dashboards
 ![Overview](Dashboards/Overview.png)
