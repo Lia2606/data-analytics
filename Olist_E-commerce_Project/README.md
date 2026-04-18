@@ -15,8 +15,8 @@ Full Analysis File: [Olist_Analysis.xlsx](https://github.com/yaeryung-lee/Data-A
 
 ### Power BI Dashboards
 ![Overview](Dashboards/overview.png)
-![Problem 1](Dashboards/Problem_1.png)
-![Problem 2](Dashboards/Problem_2.png)
+![Problem 1](Dashboards/problem_1.png)
+![Problem 2](Dashboards/problem_2.png)
 ![Strategic Actions](Dashboards/Strategic_Actions.png)
 
 ---
